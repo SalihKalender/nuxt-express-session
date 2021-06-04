@@ -1,4 +1,4 @@
-# 38-shopping-cart-app
+# shopping-carts-app
 
 ## Build Setup
 
